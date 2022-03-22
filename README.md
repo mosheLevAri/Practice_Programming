@@ -5,12 +5,12 @@ The system also provides guides to these languages.
 In the system, an administrative interface for adding and editing exercises.**
 
 ### Front-end:
-**React
+..**React
 HTML
 Css**
 
 ### Back-end:
-**Node.js
+..**Node.js
 MongoDB
 Express
 JWT**
