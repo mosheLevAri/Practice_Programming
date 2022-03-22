@@ -7,3 +7,5 @@ In the system, an administrative interface for adding and editing exercises.*
 ### Front-end: react, html, css
 
 ### Back-end: node, mongodb, express
+
+https://practice-exercise.netlify.app/
