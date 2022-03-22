@@ -5,9 +5,14 @@ The system also provides guides to these languages.
 In the system, an administrative interface for adding and editing exercises.**
 
 ### Front-end:
-react, html, css
+**React
+HTML
+Css**
 
 ### Back-end:
-node, mongodb, express
+**Node.js
+MongoDB
+Express
+JWT**
 
 https://practice-exercise.netlify.app/
