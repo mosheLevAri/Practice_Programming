@@ -19,5 +19,7 @@
 #### My Website : https://practice-exercise.netlify.app
 
 <img width="938" alt="צילום מסך 2022-03-23 101959" src="https://user-images.githubusercontent.com/95866297/159666688-91969757-37c2-45e7-b34f-d3d63cda1015.png">
+
 <img width="935" alt="שפות" src="https://user-images.githubusercontent.com/95866297/159666971-8cf4f1a6-b7d8-462e-8774-d67279aa6ffc.png">
+
 <img width="935" alt="צילום מסך 2022-03-23 102126" src="https://user-images.githubusercontent.com/95866297/159666999-cef0eaa6-d96e-45d9-b6fd-0fc425960220.png">
