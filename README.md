@@ -5,9 +5,9 @@ The system also provides guides to these languages.
 In the system, an administrative interface for adding and editing exercises.**
 
 ### Front-end:
-**React
-**HTML
-**Css
+*React
+*HTML
+*Css
 
 ### Back-end:
 **Node.js
