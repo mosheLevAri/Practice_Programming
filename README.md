@@ -9,6 +9,11 @@ In the system, an administrative interface for adding and editing exercises.**
 *HTML
 *Css
 
+
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
++ 
 ### Back-end:
 **Node.js
 **MongoDB
